@@ -1,0 +1,30 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  list-style: none;
+  justify-content: center;
+  align-items: center;
+
+}
+
+li {
+    width: 200px;
+    height: 200px;
+  border: 1px solid grey;
+  background-color: aqua;
+}
+
+li:hover {
+  cursor: pointer;
+  box-shadow: 5px 5px 10px 5px purple;
+}
+
+h6 {
+  font-size: 20px;
+}

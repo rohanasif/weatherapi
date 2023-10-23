@@ -1,0 +1,30 @@
+{
+  "coord": { "lon": 74.3436, "lat": 31.5497 },
+  "weather": [
+    { "id": 800, "main": "Clear", "description": "clear sky", "icon": "01d" }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 32.99,
+    "feels_like": 32.79,
+    "temp_min": 32.99,
+    "temp_max": 32.99,
+    "pressure": 1008,
+    "humidity": 35
+  },
+  "visibility": 6000,
+  "wind": { "speed": 6.17, "deg": 320 },
+  "clouds": { "all": 0 },
+  "dt": 1684476915,
+  "sys": {
+    "type": 1,
+    "id": 7585,
+    "country": "PK",
+    "sunrise": 1684454656,
+    "sunset": 1684504448
+  },
+  "timezone": 18000,
+  "id": 1172451,
+  "name": "Lahore",
+  "cod": 200
+}
